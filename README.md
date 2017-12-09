@@ -28,14 +28,13 @@ Week 8: [Reflect on this project as a whole]()
 
 ## Links
 
-Code Wars Profile: [Profile]()
+[Code Wars Profile]()
 
-Thimble Firebase Pusher: [Thimble]()
+[Thimble Firebase Pusher]()
 
-File Directory: [Website Files]()
+[File Directory]()
 
-Github Pages: [Open-Innovation-App]() 
-
+[Github Pages]() 
 
 
 ## Other Content
