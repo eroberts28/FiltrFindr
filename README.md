@@ -39,6 +39,8 @@ Github Pages: [Open-Innovation-App]()
 
 
 ## Other Content
-Wireframes
-Broken Code
+
+#### Wireframes
+
+#### Broken Code
 
