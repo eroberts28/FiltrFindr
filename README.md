@@ -28,13 +28,17 @@ Week 8: [Reflect on this project as a whole]()
 
 ## Links
 
-[Code Wars Profile]()
+[Code Wars Profile](https://www.codewars.com/users/eroberts27)
 
-[Thimble Firebase Pusher]()
+[Thimble Firebase Pusher](https://thimbleprojects.org/eroberts27/372915/)
 
 [File Directory](https://github.com/eroberts28/ideamatch)
 
 [Github Pages](https://eroberts28.github.io/ideamatch/) 
+
+[Formative]()
+
+[Summative](https://docs.google.com/presentation/d/1oUbxFvFzP3StZCMsfhnWSeTcgVk7vm34sk7qq8MtB_Y/edit?ts=5a2d54c3#slide=id.g2b9cc0d19b_0_0)
 
 
 ## Other Content
