@@ -45,6 +45,13 @@ Week 8: [Reflect on this project as a whole]()
 
 [Wireframes](https://drive.google.com/drive/folders/1zIYUCKeXhMv8hqCztDxEIaWG5n5-3Lru?usp=sharing)
 
+### Peer-learning
+
+[Meaningful Space & Sketching and Model Making]()
+
+[What are algorithms?](https://docs.google.com/presentation/d/1RwAyK0nVK6ANkKq9XpDXlKADBWqSeJ3EHNKwsrvfPng/edit?usp=sharing)
+
+
 #### Broken Code
 
 The below code was a section that I had a bit of trouble with. The "charges" section was the part the produced an issue. It wasn't even the HTML code in fact, it was the issue with pulling it from the database. The information was pulled from the database as it appeared on my app. However, if you select either "coder" or "designer" and then whatever price you select, all the "coders" or "designers" appear, even though only one price range was selected within the database. Unfortunately, after trying many solutions I was not able to fix this which was a shame.
