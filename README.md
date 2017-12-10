@@ -32,9 +32,9 @@ Week 8: [Reflect on this project as a whole]()
 
 [Thimble Firebase Pusher]()
 
-[File Directory]()
+[File Directory](https://github.com/eroberts28/ideamatch)
 
-[Github Pages]() 
+[Github Pages](https://eroberts28.github.io/ideamatch/) 
 
 
 ## Other Content
