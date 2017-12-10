@@ -47,7 +47,7 @@ Week 8: [Reflect on this project as a whole]()
 
 ### Peer-learning
 
-[Meaningful Space & Sketching and Model Making]()
+[Meaningful Space & Sketching and Model Making](https://drive.google.com/file/d/1yGCr3CTz9l2NZp28lJqKucxhlrMwGPPH/view?usp=sharing)
 
 [What are algorithms?](https://docs.google.com/presentation/d/1RwAyK0nVK6ANkKq9XpDXlKADBWqSeJ3EHNKwsrvfPng/edit?usp=sharing)
 
