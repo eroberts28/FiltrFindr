@@ -43,7 +43,8 @@ Week 8: [Reflect on this project as a whole]()
 
 ## Other Content
 
-#### Wireframes
+[Wireframes](https://drive.google.com/drive/folders/1zIYUCKeXhMv8hqCztDxEIaWG5n5-3Lru?usp=sharing)
 
 #### Broken Code
 
+![image](https://user-images.githubusercontent.com/22593770/33807481-7fc9dbee-ddcf-11e7-8d76-ae6a115de586.png)
