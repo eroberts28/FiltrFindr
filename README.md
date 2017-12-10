@@ -47,4 +47,6 @@ Week 8: [Reflect on this project as a whole]()
 
 #### Broken Code
 
+The below code was a section that I had a bit of trouble with. The "charges" section was the part the produced an issue. It wasn't even the HTML code in fact, it was the issue with pulling it from the database. The information was pulled from the database as it appeared on my app. However, if you select either "coder" or "designer" and then whatever price you select, all the "coders" or "designers" appear, even though only one price range was selected within the database. Unfortunately, after trying many solutions I was not able to fix this which was a shame.
+
 ![image](https://user-images.githubusercontent.com/22593770/33807481-7fc9dbee-ddcf-11e7-8d76-ae6a115de586.png)
