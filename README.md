@@ -8,6 +8,8 @@
 
 ## Introduction
 
+For this project we were given the Mozilla theme of open-innovation and asked to find and create the unmet need in terms of app design/development. This project allowed me to improve my coding skills, mainly HTML, CSS and learn the basics in terms of Javascript. Alongside the code, we had to ensure that we collated research, designed the layout and wireframes, implemented a database and design the app to fit the terms of our app idea.
+
 ## Blogs
 
 Week 1 : [What can be some of the challenges when running a workshop?](https://medium.com/@e.roberts/what-can-be-some-of-the-challenges-when-running-a-workshop-76dbe14511d1) 
@@ -18,13 +20,13 @@ Week 3: [Analyse your favourite app in terms of interface, data and logic](https
 
 Week 4: [What is your biggest learning so far from this project?](https://medium.com/@e.roberts/what-is-your-biggest-learning-so-far-from-this-project-7e084c97a8dd) 
 
-Week 5: [Pair up with another person and give each other feedback on your peer learning mini-lessons.]()
+Week 5: [Pair up with another person and give each other feedback on your peer learning mini-lessons.](https://medium.com/@e.roberts/pair-up-with-another-person-and-give-each-other-feedback-on-your-peer-learning-mini-lessons-a5b4aa468e4)
 
 Week 6: [Watch: The best interface is no interface](https://medium.com/@e.roberts/the-best-interface-is-no-interface-3e83678bb643) 
 
 Week 7: [WTF is an API?](https://medium.com/@e.roberts/wtf-is-api-9a3e0fe2eb5) 
 
-Week 8: [Reflect on this project as a whole]() 
+Week 8: [Reflect on this project as a whole](https://medium.com/@e.roberts/reflect-on-this-project-as-a-whole-7e1c33504dc3) 
 
 ## Links
 
