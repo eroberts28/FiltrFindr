@@ -20,7 +20,7 @@ Week 4: [What is your biggest learning so far from this project?](https://medium
 
 Week 5: [Pair up with another person and give each other feedback on your peer learning mini-lessons.]()
 
-Week 6: [Watch: The best interface is no interface]() 
+Week 6: [Watch: The best interface is no interface](https://medium.com/@e.roberts/the-best-interface-is-no-interface-3e83678bb643) 
 
 Week 7: [WTF is an API?]() 
 
