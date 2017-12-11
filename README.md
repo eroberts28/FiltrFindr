@@ -16,7 +16,7 @@ Week 2: [Why is it important that we prototype our ideas and test it with users?
 
 Week 3: [Analyse your favourite app in terms of interface, data and logic](https://medium.com/@e.roberts/analyse-your-favourite-app-in-terms-of-interface-data-and-logic-d4f030a9a07d) 
 
-Week 4: [What is your biggest learning so far from this project? Create your own title!]() 
+Week 4: [What is your biggest learning so far from this project?](https://medium.com/@e.roberts/what-is-your-biggest-learning-so-far-from-this-project-7e084c97a8dd) 
 
 Week 5: [Pair up with another person and give each other feedback on your peer learning mini-lessons.]()
 
