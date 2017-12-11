@@ -22,7 +22,7 @@ Week 5: [Pair up with another person and give each other feedback on your peer l
 
 Week 6: [Watch: The best interface is no interface](https://medium.com/@e.roberts/the-best-interface-is-no-interface-3e83678bb643) 
 
-Week 7: [WTF is an API?]() 
+Week 7: [WTF is an API?](https://medium.com/@e.roberts/wtf-is-api-9a3e0fe2eb5) 
 
 Week 8: [Reflect on this project as a whole]() 
 
